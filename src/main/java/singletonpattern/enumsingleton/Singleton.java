@@ -3,7 +3,6 @@ package singletonpattern.enumsingleton;
 /**
  * @author Hanoch
  */
-
 public enum Singleton {
     /**
      * 单例
